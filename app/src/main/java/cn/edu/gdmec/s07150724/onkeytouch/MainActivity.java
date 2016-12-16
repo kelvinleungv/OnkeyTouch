@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
         tv1.setText("别问");
         setContentView(tv1);
 
-
     }
 
     @Override
